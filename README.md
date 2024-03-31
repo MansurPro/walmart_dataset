@@ -13,5 +13,5 @@
 
 ## Contributors
 ex. [@Ravil](https://github.com/TheWanderer12)  
-ex. [@Mansurbek](https://github.com/mansurpro)
+ex. [@Mansurbek](https://github.com/mansurpro) <br>
 ex. [@Nicolas](nagreda@na.edu)
